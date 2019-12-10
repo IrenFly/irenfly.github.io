@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Special+Elite|Yrsa&display=swap');
+
+body, html {
+	height: 100%;
+	margin: 0px;
+	width: 100%;
+}
+
+.background-one {
+	background-image: url('E:/ParallaxTest/images/school-bw.jpg');
+}
+
+.background-two {
+	background-image: url('E:/ParallaxTest/images/church-bw.jpg');
+}
+
+.background-three {
+	background-image: url('E:/ParallaxTest/images/letter-tiles.jpg');
+}
+
+.background-one, .background-two, .background-three {
+	height: 100%;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.caption {
+	font-family: 'Special Elite', cursive;
+	font-size: 40px;
+	position: relative;
+	left: 0;
+	top: 50%;
+	padding: 20px;
+	text-align: center;
+	color: black;
+	background-color: transparent;
+}
+
+.border {
+	padding: 10px 50px;
+	background-color: #ffffff80;
+}
+
+.meat {
+	background-color: #ffffff;
+	padding: 70px;
+	font-family: 'Yrsa', serif;
+}
