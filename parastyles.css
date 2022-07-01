@@ -7,15 +7,15 @@ body, html {
 }
 
 .background-one {
-	background-image: url('E:/ParallaxTest/images/school-bw.jpg');
+	background-image: url('images/school-bw.jpg');
 }
 
 .background-two {
-	background-image: url('E:/ParallaxTest/images/church-bw.jpg');
+	background-image: url('images/church-bw.jpg');
 }
 
 .background-three {
-	background-image: url('E:/ParallaxTest/images/letter-tiles.jpg');
+	background-image: url('images/letter-tiles.jpg');
 }
 
 .background-one, .background-two, .background-three {
